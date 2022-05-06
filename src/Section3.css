@@ -1,0 +1,119 @@
+.section3{
+    font-family: 'Inter', sans-serif;
+}
+.section3b{
+    background-color: whitesmoke;
+    padding-top: 50px;
+}
+.security{
+    text-align: left;
+    margin-left: 10%;
+}
+.key__section{
+    display: flex;
+    justify-content: space-around;
+}
+.img6{
+    height: 750px;
+    width: 270px;
+    margin-top: -60px;
+}
+.left__key{
+    box-shadow: 3px 3px 15px rgb(189, 187, 187);
+    height: 170px;
+    width: 630px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    display: flex;
+}
+.blue__side{
+    background-color: #2FA4FF;
+    box-shadow: 3px 3px 15px rgb(189, 187, 187);
+    height: 170px;
+    width: 90px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 0px;
+
+}
+.blue__sid{
+    padding-top: 50px;
+}
+.enabled{
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 30px;
+    letter-spacing: 0;
+}
+.enabled2{
+    font-size: 16px;
+    /* font-family: 'Inter', sans-serif; */
+    /* font-weight: lighter; */
+    text-align: left;
+    color: rgb(158, 153, 153);
+    padding-left: 30px;
+}
+.enabled3{
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 30px;
+}
+.enabled4{
+    background-color: #2FA4FF;
+    height: 6px;
+    width: 80px;
+    margin-left: 30px;
+    margin-bottom: 90px;
+}
+.enabled5{
+    background-color: #2FA4FF;
+    height:6px;
+    width: 150px;
+    margin-left: 30px;
+    margin-bottom: 90px;
+}
+.enabled6{
+    background-color: #2FA4FF;
+    height: 6px;
+    width: 230px;
+    margin-left: 30px;
+    margin-bottom: 90px;
+}
+.enabled7{
+    background-color: #2FA4FF;
+    height: 6px;
+    width: 290px;
+    margin-left: 30px;
+    margin-bottom: 90px;
+}
+.support2{
+    color: rgb(188, 184, 184);
+    text-align: left;
+    margin-left: 5%;
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    box-shadow: 3px 3px 15px rgb(189, 187, 187);
+    height: 70px;
+    width: 550px;
+    border-radius: 20px;
+}j
+.support{
+  
+   
+    margin-bottom: 60px;
+    padding-bottom: 25px;
+}
+.third__section{
+    display: flex;
+    justify-content: space-around;
+}

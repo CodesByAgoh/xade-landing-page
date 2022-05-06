@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    margin-left: 10%;
+    margin-top: -60px;
+    font-family: 'Inter', sans-serif;
+}
+.footer__text{
+    font-size: 1rem;
+    color: gray;
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter;
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
