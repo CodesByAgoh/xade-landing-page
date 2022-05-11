@@ -8,6 +8,7 @@ import Section3 from './Section3';
 import Section4 from './Section4';
 import Footer2 from './Footer2';
 import Section3b from './Section3b';
+import './Responsive.css';
 
 
 function App() {

@@ -24,7 +24,7 @@ function reveal() {
 
 function Section4() {
   return (
-    <div className='section4 reveal'>
+    <div className='section4 reveal' id='section4'>
     <div className='never'>
         <span className='never1'>Facing issues or just </span>
         <span className='never2'>have a question?</span>

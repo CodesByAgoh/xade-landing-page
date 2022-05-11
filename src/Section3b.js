@@ -2,7 +2,7 @@ import React from 'react'
 
 function Section3b() {
   return (
-    <div className='reveal section3b'>
+    <div className='reveal section3b' id='section3b'>
         <div className='security'>
             <span className='solution'>Focus on your product</span> <br/> 
             <span className='solution'>and</span>
@@ -41,7 +41,7 @@ function Section3b() {
                         <p className='enabled7'></p>
                     </div>
                 </div>
-                <div>
+                <div className='main__support'>
                     <div className='support'>
                          <p className='support2'>
                              Chat support, call support and dedicated concierge 

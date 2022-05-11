@@ -8,10 +8,12 @@ import img6 from './images/invest.png'
 
 function Section2() { 
   return (
-    <div className='section2 reveal'>
+    <div  className='section2 reveal' id='section2'>
+        <div className='section2__firstpart'>
         <span className='solution1'>A</span>
         <span className='one__stop2'>one stop</span>
         <span className='solution'>solution for all your finances</span>
+        </div>
         <h2 className='explore2'>Explore all the financial features offered by xade
          <br/> and benefit from using them </h2>
          <br/>
@@ -77,7 +79,7 @@ function Section2() {
                     zero fees</p>
                 </div>
                 <div  className='learn__more'>
-                    <a  className='learn__moe'href='#'> Learn more</a>
+                    <a  className='learn__moe'href='https://app.xade.finance/'> Learn more</a>
                 </div>
              </div>
                 

@@ -17,7 +17,7 @@ function MainSection() {
             <img className='img1' src={img1} alt=''/>
         </div>
     </div>
-  )
+  ) 
 }
 
 export default MainSection
