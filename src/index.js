@@ -1,17 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from 'Application/App';
 import reportWebVitals from './reportWebVitals';
 import {
   BrowserRouter,
   Routes,
   Route,
 } from "react-router-dom";
-import Section2 from './Section2';
-import Section3b from './Section3b';
-import Section3 from './Section3';
-import Section4 from './Section4';
+import Section2 from 'Components/Section2';
+import Section3b from 'Components/Section3b';
+import Section3 from 'Components/Section3';
+import Section4 from 'Components/Section4';
 
 
 

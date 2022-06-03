@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is the official Landing Page of Xade Finance
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Changes to be made
+
+### Recommended deadline -> 5th June 2022
+
+### Final deadline -> 8th June 2022
+
+```txt
+Note: These are only minor appearance changes, not relating to the file structure, or code in any way
+```
+
+1. Learn more button in Section2 (src/Components/Section2 %% src/Stylesheets/Section2).
+
+### The next two changes are related to mobile-responsiveness
+
+2. Menu button. This is the most urgent and important change, the three lines in the Navbar (for mobile) must lead to a menu bar similar in design to the one in the **Intellabridge** website.
+
+3. "Facing issues or just have a question" is disproportionate. (src/Components/Section4)
